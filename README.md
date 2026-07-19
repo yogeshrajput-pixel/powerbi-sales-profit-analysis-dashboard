@@ -86,6 +86,6 @@ The project demonstrates Power BI reporting, DAX calculations, interactive visua
 
 ## 👨‍💻 Author
 
-**Yogesh Rajput**
+**Yogesh Kumar**
 
 Aspiring Data Analyst
